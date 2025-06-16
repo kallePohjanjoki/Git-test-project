@@ -1,3 +1,4 @@
+from string import printable
 print("I am very familiar with Git")
 print("Change in the code")
 <<<<<<< HEAD
@@ -5,3 +6,4 @@ print("Change in the code")
 =======
 # new change
 >>>>>>> development
+print("Bye world!")
